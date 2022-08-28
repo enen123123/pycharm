@@ -1,0 +1,2 @@
+# pycharm
+python练习
